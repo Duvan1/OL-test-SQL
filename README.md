@@ -35,7 +35,3 @@ Este enfoque garantiza que el sistema esté listo para realizar pruebas con dato
 #### 4. Validaciones y Restricciones
 
 Se implementaron validaciones de integridad referencial utilizando claves foráneas para asegurar que los registros de los establecimientos estén siempre asociados con un comerciante válido. Además, las restricciones de `CHECK` en las tablas aseguran que los valores de los campos como `role`, `status` y `revenue` sean válidos.
-
----
-
-Este archivo README proporciona un resumen claro y organizado de las decisiones tomadas en el proceso de desarrollo de la base de datos y la lógica implementada para asegurar la calidad y consistencia de los datos en el sistema.
