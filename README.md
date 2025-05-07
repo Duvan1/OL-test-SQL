@@ -1,5 +1,7 @@
-README
-Proceso de Desarrollo y Decisiones Tomadas
+#README
+#Proceso de Desarrollo y Decisiones Tomadas
+
+#Reto SQL
 1. Modelo de Datos y Estructura de Tablas
 El modelo de datos fue diseñado para cumplir con los requerimientos de un sistema que gestiona usuarios, comerciantes y establecimientos en un entorno de agremiación nacional de comercio. Las decisiones clave fueron las siguientes:
 
